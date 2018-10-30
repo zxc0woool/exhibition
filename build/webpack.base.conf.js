@@ -36,7 +36,8 @@ module.exports = {
     alias: {
       '@': resolve('src'),
       //指定 vue.js 的路径
-      'vue$':'vue/dist/vue.js'
+      'vue$':'vue/dist/vue.js',
+      'vue':'vue/dist/vue.js'
     }
   },
   module: {

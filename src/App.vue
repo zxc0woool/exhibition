@@ -32,4 +32,5 @@ export default {
     background-color: hsla(0,0%,100%,.4);
     box-shadow: 0 1px 2px rgba(0,0,0,.1);
 }
+
 </style>

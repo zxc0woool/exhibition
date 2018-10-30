@@ -16,14 +16,12 @@
     </div>
     <div class="body">
       <div class="left">
-          <header/>
-        <router-view></router-view>
-        <footer/>
+        <!-- <home :datalist="dialogues"></home> -->
 
       </div>
       <div class="right">
        
-        <blog></blog>
+        <!-- <blog></blog> -->
       </div>
 
     </div>
@@ -96,13 +94,13 @@ export default {
 } */
 
 .body {
-  background-color: rgb(255, 241, 196);
+  /* background-color: rgb(255, 241, 196); */
   margin: 0 auto;
   min-height: 490px;
   width: 1280px;
 }
 .body .left {
-  background-color: rgb(223, 255, 196);
+  /* background-color: rgb(223, 255, 196); */
   float: left;
   min-height: 490px;
   width: 1000px;

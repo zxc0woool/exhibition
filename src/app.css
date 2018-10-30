@@ -65,3 +65,12 @@
   .clearfix{ 
       *zoom:1;/*IE/7/6*/
   }
+
+  /* 突出的 左标题 */
+  .prominent-topic{
+    font-size: 24px!important;
+    line-height: 24px;
+    font-weight: 400;
+    margin-right: 20px;
+    float: left;
+  }
